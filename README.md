@@ -57,6 +57,7 @@ To add your own template, submit a pull request and add your repository to the l
 * [qutebrowser](https://github.com/theova/base16-qutebrowser) maintaned by [theova](https://github.com/theova)
 * [Rofi](https://gitlab.com/0xdec/base16-rofi) maintained by [0xdec](https://gitlab.com/0xdec)
 * [Scide](https://github.com/brunoro/base16-scide) maintained by [brunoro](https://github.com/brunoro)
+* [Screen](https://github.com/quiteclose/base16-screen) maintained by [QuiteClose](https://github.com/quiteclose)
 * [Shell](https://github.com/chriskempson/base16-shell) maintained by [chriskempson](https://github.com/chriskempson)
 * [st](https://github.com/honza/base16-st) maintained by [honza](https://github.com/honza)
 * [StumpWM](https://github.com/tpine/base16-stumpwm) maintained by [tpine](https://github.com/tpine)
